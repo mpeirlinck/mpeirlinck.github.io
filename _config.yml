@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mathias Peirlinck / Site Title"
+title                    : "Mathias Peirlinck"
 title_separator          : "-"
 name                     : &name "Mathias Peirlinck"
 description              : &description "PhD, Engineer"
