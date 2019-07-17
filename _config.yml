@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mathias Peirlinck Sidebar"
+  name             : "Mathias Peirlinck"
   avatar           : "profile.png"
-  bio              : "Mathias' biography for the left-hand sidebar"
+  bio              : "PhD, Engineer"
   location         : "Belgium"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=mathias+peirlinck"
