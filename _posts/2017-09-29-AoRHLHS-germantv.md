@@ -1,6 +1,6 @@
 ---
 title: "Ein Herz aus Bytes: Operationen"
-date: 2012-08-14
+date: 2017-09-29
 permalink: /posts/2017-09-29-AoRHLHS-germantv
 ---
 Our work (Bjorn Butz and me) on Aortic Arch Reconstruction in HLHS patients was featured on German television (Nano magazine on 3sat).
