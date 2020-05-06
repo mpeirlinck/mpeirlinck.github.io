@@ -9,4 +9,4 @@ Audience share: +500k households
 
 Original [video](https://bit.ly/2xTFWG4).
 
-"In the long term, models like the "Living Heart" should make it possible to generate a model of his heart from the most varied data of a patient - from the genome to the body scan ... "
+"Langfristig sollen Modelle wie das "Living Heart" es ermöglichen, aus unterschiedlichsten Daten eines Patienten - vom Genom bis zum Körperscan - ein Modell seines Herzens zu erzeugen,..."
