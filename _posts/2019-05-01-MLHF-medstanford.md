@@ -4,4 +4,16 @@ date: 2019-05-01
 permalink: /posts/2019-05-01-MLHF-medstanford
 ---
 Feature on Stanford Medicine's Cardiovascular Institute webpage on our work describing heart failure mechanisms in the human heart using multiscale computational modeling and machine learning.
-http://med.stanford.edu/cvi/mission/news_center/articles_announcements/using-machine-learning-to-predict-heart-failure.html
+Original [article](http://med.stanford.edu/cvi/mission/news_center/articles_announcements/using-machine-learning-to-predict-heart-failure.html)
+
+"The human heart repeatedly goes through adaptive cycles of growth and remodeling in order to meet the body’s demand. However, in individuals with cardiovascular disease, chronic changes in the volume of blood the heart pumps or the pressure the heart experiences can lead to maladaptive growth and remodeling that compromises the heart’s function and increase an individual’s risk for ischemia, arrhythmia, and sudden death.
+
+Disease-related growth and remodeling tend to follow one of two hypertrophic growth patterns. Chronic cardiac volume overload causes the myocytes, the muscle cells of the heart, to elongate, leading to the development of larger, dilated ventricles. By contrast, chronic cardiac pressure overload thickens myocytes, and thicker ventricles that remain their overall normal size. Both patterns eventually lead to heart failure.
+
+In order to prevent and treat heart failure, doctors need methods to help them anticipate and predict the rate and type of cardiac growth. Stanford Cardiovascular Institute member Ellen Kuhl, a Professor in the Department of Mechanical Engineering, leads a group that recently published a machine-learning approach to solve this problem in Biomechanics and Modeling in Mechanobiology.
+
+Together with their collaborators at the California Medical Innovations Institute and UC San Francisco, the scientists performed an 8-week long study of cardiac volume overload in six pigs and then combined hierarchical modeling, Bayesian inference, and Gaussian process regression to quantify the uncertainty in their experimental measurements. They then applied these data to a computational growth model and determined how well their experimental and computationally predicted myocyte measurements agreed and were further able to implicate the stretching of cells as key for myocyte remodeling.
+
+Multiscale cardiac growth models such as the one employed by Kuhl and colleagues allow researchers understand how various subcellular-, cellular-, and organ-level changes can combine to contribute to heart failure and have the potential to provide a more holistic picture of the failing heart, helping clinicians best care for their patients.
+
+Authors on this study include M. Peirlinck, F. Sahli Costabal, K. L. Sack, J. S. Choy, G. S. Kassab, J. M. Guccione, M. De Beule, P. Segers, and E. Kuhl. Funding for this study came from the Flanders Innovation and Entrepreneurship Agency, the Flemish Fund for Scientific Research, a Becas Chile-Fulbright Fellowship, and the National Institutes of Health."
