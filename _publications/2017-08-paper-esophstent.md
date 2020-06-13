@@ -5,7 +5,11 @@ permalink: /publication/2017-08-paper-esophstent
 date: 2017-08-17
 venue: 'Biomechanics and Modeling in Mechanobiology'
 paperurl: 'https://link.springer.com/article/10.1007/s10237-017-0948-9'
+<<<<<<< HEAD
 excerpt: 'Despite all technological innovations in esophageal stent design over the past 20 years, the association between the stent design's mechanical behavior and its effect on the clinical outcome has not yet been thoroughly explored. Here, we set a computational modeling framework which allows us to study the tissue-device interaction between a patient-specific, in vivo stressed, actively contracting and buckling esophagus and a biodgradable braided wire stent.'
+=======
+excerpt:'Despite all technological innovations in esophageal stent design over the past 20 years, the association between the stent design's mechanical behavior and its effect on the clinical outcome has not yet been thoroughly explored.'
+>>>>>>> parent of 734d662... Update 2017-08-paper-esophstent.md
 ---
 
 [Download paper here](https://link.springer.com/article/10.1007/s10237-017-0948-9)
