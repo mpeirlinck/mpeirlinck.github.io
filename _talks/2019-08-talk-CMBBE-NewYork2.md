@@ -7,3 +7,4 @@ venue: "16th International Symposium on Computer Methods in Biomechanics and Bio
 date: 2019-08-16
 location: "New York City, NY, USA"
 ---
+Conference talk, 16th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering and the 4th Conference on Imaging and Visualization, New York City, NY, USA
