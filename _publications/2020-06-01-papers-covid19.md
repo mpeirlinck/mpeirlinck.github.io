@@ -1,9 +1,9 @@
 ---
-title: "Using machine learning to characterize heart failure across the scales"
+title: "Modeling the outbreak dynamics of COVID-19, the effect of travel restrictions and asymptomatic transmission"
 collection: publications
 permalink: /publication/2019-06-25-paper-HF_ML_growth
-date: 2019-06-25
-venue: 'Biomechanics and Modeling in Mechanobiology'
+date: 2020-06-01
+venue: 'medRxiv, Biomechanics and Modeling in Mechanobiology, Computer Methods'
 paperurl: 'https://link.springer.com/article/10.1007/s10237-019-01190-w'
 excerpt: 'Heart failure is a progressive chronic condition in which the heart undergoes detrimental changes in structure and function across multiple scales in time and space. 
 Multiscale models of cardiac growth can provide a patient-specific window into the progression of heart failure and guide personalized treatment planning. 

@@ -5,21 +5,8 @@ permalink: /publication/2017-08-paper-esophstent
 date: 2017-08-17
 venue: 'Biomechanics and Modeling in Mechanobiology'
 paperurl: 'https://link.springer.com/article/10.1007/s10237-017-0948-9'
-<<<<<<< HEAD
-<<<<<<< HEAD
-excerpt: 'Despite all technological innovations in esophageal stent design over the past 20 years, the association between the stent design's mechanical behavior and its effect on the clinical outcome has not yet been thoroughly explored. Here, we set a computational modeling framework which allows us to study the tissue-device interaction between a patient-specific, in vivo stressed, actively contracting and buckling esophagus and a biodgradable braided wire stent.'
-=======
-excerpt:'Despite all technological innovations in esophageal stent design over the past 20 years, the association between the stent design's mechanical behavior and its effect on the clinical outcome has not yet been thoroughly explored.'
->>>>>>> parent of 734d662... Update 2017-08-paper-esophstent.md
 ---
 
 [Download paper here](https://link.springer.com/article/10.1007/s10237-017-0948-9)
-=======
->>>>>>> parent of f6bfa41... update publications
 
----
 Despite all technological innovations in esophageal stent design over the past 20 years, the association between the stent design’s mechanical behavior and its effect on the clinical outcome has not yet been thoroughly explored. A parametric numerical model of a commercially available esophageal bioresorbable polymeric braided wire stent is set up, accounting for stent design aspects such as braiding angle, strut material, wire thickness, degradation and friction between the wires comprising a predictive tool on the device’s mechanical behavior. Combining this tool with complex multilayered numerical models of the pathological in vivo stressed, actively contracting and buckling esophagus could provide clinicians and engineers with a patient-specific window into the mechanical aspects of stent-based esophageal intervention. This study integrates device and soft tissue mechanics in one computational framework to potentially aid in the understanding of the occurrence of specific symptoms and complications after stent placement.
-
----
-
-[Download paper here](https://link.springer.com/article/10.1007/s10237-017-0948-9)
