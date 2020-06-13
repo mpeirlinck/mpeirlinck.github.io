@@ -7,6 +7,7 @@ venue: 'Journal of the Mechanical Behavior of Biomedical Materials'
 paperurl: 'https://doi.org/10.1016/j.jmbbm.2018.05.032'
 excerpt:'We developed a novel, modular inverse elastostatics approach and implemented this methodology in a commercial FEA solver with minor user subroutine interventions. The accuracy of this methodology was demonstrated in an arterial tube and porcine biventricular myocardium model and subsequently applied to patient-specific aorta and heart models. '
 ---
+
 [Download paper here](https://doi.org/10.1016/j.jmbbm.2018.05.032)
 
 Patient-specific biomechanical modeling of the cardiovascular system is complicated by the presence of a physiological pressure load given that the imaged tissue is in a pre-stressed and -strained state. 
