@@ -9,6 +9,8 @@ excerpt: Heart failure is a progressive chronic condition in which the heart und
 Multiscale models of cardiac growth can provide a patient-specific window into the progression of heart failure and guide personalized treatment planning. 
 Yet, the predictive potential of cardiac growth models remains poorly understood. 
 ---
+[Download paper here](https://link.springer.com/article/10.1007/s10237-019-01190-w)
+
 Heart failure is a progressive chronic condition in which the heart undergoes detrimental changes in structure and function across multiple scales in time and space. 
 Multiscale models of cardiac growth can provide a patient-specific window into the progression of heart failure and guide personalized treatment planning. 
 Yet, the predictive potential of cardiac growth models remains poorly understood. 
@@ -19,6 +21,3 @@ Our study suggests that stretch is the major stimulus for myocyte lengthening an
 We anticipate that our approach will allow us to design, calibrate, and validate a new generation of multiscale cardiac growth models to explore the interplay of various subcellular-, cellular-, and organ-level contributors to heart failure. 
 Using machine learning in heart failure research has the potential to combine information from different sources, subjects, and scales to provide a more holistic picture of the failing heart and point toward new treatment strategies.
 
----
-
-[Download paper here](https://link.springer.com/article/10.1007/s10237-019-01190-w)
