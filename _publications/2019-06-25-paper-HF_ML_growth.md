@@ -5,10 +5,11 @@ permalink: /publication/2019-06-25-paper-HF_ML_growth
 date: 2019-06-25
 venue: 'Biomechanics and Modeling in Mechanobiology'
 paperurl: 'https://link.springer.com/article/10.1007/s10237-019-01190-w'
-excerpt: Heart failure is a progressive chronic condition in which the heart undergoes detrimental changes in structure and function across multiple scales in time and space. 
+excerpt: 'Heart failure is a progressive chronic condition in which the heart undergoes detrimental changes in structure and function across multiple scales in time and space. 
 Multiscale models of cardiac growth can provide a patient-specific window into the progression of heart failure and guide personalized treatment planning. 
-Yet, the predictive potential of cardiac growth models remains poorly understood. 
+Yet, the predictive potential of cardiac growth models remains poorly understood.'
 ---
+
 [Download paper here](https://link.springer.com/article/10.1007/s10237-019-01190-w)
 
 Heart failure is a progressive chronic condition in which the heart undergoes detrimental changes in structure and function across multiple scales in time and space. 
