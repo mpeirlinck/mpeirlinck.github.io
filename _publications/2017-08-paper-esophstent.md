@@ -5,6 +5,7 @@ permalink: /publication/2017-08-paper-esophstent
 date: 2017-08-17
 venue: 'Biomechanics and Modeling in Mechanobiology'
 paperurl: 'https://link.springer.com/article/10.1007/s10237-017-0948-9'
+excerpt: ' '
 ---
 
 [Download paper here](https://link.springer.com/article/10.1007/s10237-017-0948-9)
