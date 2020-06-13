@@ -5,7 +5,7 @@ permalink: /publication/2018-09-paper-kinBCcard
 date: 2018-09-06
 venue: 'International Journal for Numerical Methods in Biomedical Engineering'
 paperurl: 'https://doi.org/10.1002/cnm.3151'
-excerpt:'We studied the influence of commonly used mechanical boundary conditions on both the predicted global functional behavior of the in-silico heart (cavity volumes, stroke volume, ejection fraction) and local strain distributions.'
+excerpt: 'We studied the influence of commonly used mechanical boundary conditions on both the predicted global functional behavior of the in-silico heart (cavity volumes, stroke volume, ejection fraction) and local strain distributions.'
 ---
 
 [Download paper here](https://doi.org/10.1002/cnm.3151)
