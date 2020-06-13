@@ -5,6 +5,7 @@ permalink: /publication/2018-05-paper-inverseelast
 date: 2018-05-28
 venue: 'Journal of the Mechanical Behavior of Biomedical Materials'
 paperurl: 'https://doi.org/10.1016/j.jmbbm.2018.05.032'
+excerpt: ' '
 ---
 
 [Download paper here](https://doi.org/10.1016/j.jmbbm.2018.05.032)

@@ -1,24 +1,24 @@
 ---
 title: "Modeling the outbreak dynamics of COVID-19, the effect of travel restrictions and asymptomatic transmission"
 collection: publications
-permalink: /publication/2019-06-25-paper-HF_ML_growth
+permalink: /publication/2019-06-01-papers-covid19
 date: 2020-06-01
 venue: 'medRxiv, Biomechanics and Modeling in Mechanobiology, Computer Methods'
 paperurl: 'https://link.springer.com/article/10.1007/s10237-019-01190-w'
-excerpt: 'Heart failure is a progressive chronic condition in which the heart undergoes detrimental changes in structure and function across multiple scales in time and space. 
-Multiscale models of cardiac growth can provide a patient-specific window into the progression of heart failure and guide personalized treatment planning. 
-Yet, the predictive potential of cardiac growth models remains poorly understood.'
+excerpt: 'On March 11, 2020, the World Health Organization declared the coronavirus disease 2019, COVID-19, a global pandemic. 
+In an unprecedented collective effort, massive amounts of data are now being collected worldwide to estimate the immediate and long-term impact of this pandemic on the health system and the global economy. '
 ---
 
-[Download paper here](https://link.springer.com/article/10.1007/s10237-019-01190-w)
-
-Heart failure is a progressive chronic condition in which the heart undergoes detrimental changes in structure and function across multiple scales in time and space. 
-Multiscale models of cardiac growth can provide a patient-specific window into the progression of heart failure and guide personalized treatment planning. 
-Yet, the predictive potential of cardiac growth models remains poorly understood. 
-Here, we quantify predictive power of a stretch-driven growth model using a chronic porcine heart failure model, subject-specific multiscale simulation, and machine learning techniques. 
-We combine hierarchical modeling, Bayesian inference, and Gaussian process regression to quantify the uncertainty of our experimental measurements during an 8-week long study of volume overload in six pigs. 
-We then propagate the experimental uncertainties from the organ scale through our computational growth model and quantify the agreement between experimentally measured and computationally predicted alterations on the cellular scale. 
-Our study suggests that stretch is the major stimulus for myocyte lengthening and demonstrates that a stretch-driven growth model alone can explain 52.7% of the observed changes in myocyte morphology. 
-We anticipate that our approach will allow us to design, calibrate, and validate a new generation of multiscale cardiac growth models to explore the interplay of various subcellular-, cellular-, and organ-level contributors to heart failure. 
-Using machine learning in heart failure research has the potential to combine information from different sources, subjects, and scales to provide a more holistic picture of the failing heart and point toward new treatment strategies.
+Outbreak dynamics of COVID-19 in China and the United States
+[Download paper here](https://doi.org/10.1007/s10237-020-01332-5)
+On March 11, 2020, the World Health Organization declared the coronavirus disease 2019, COVID-19, a global pandemic. 
+In an unprecedented collective effort, massive amounts of data are now being collected worldwide to estimate the immediate and long-term impact of this pandemic on the health system and the global economy. 
+However, the precise timeline of the disease, its transmissibility, and the effect of mitigation strategies remain incompletely understood. 
+Here we integrate a global network model with a local epidemic SEIR model to quantify the outbreak dynamics of COVID-19 in China and the United States. 
+For the outbreak in China, in n=30 provinces, we found a latent period of 2.56 ± 0.72 days, a contact period of 1.47 ± 0.32 days, and an infectious period of 17.82 ± 2.95 days. 
+We postulate that the latent and infectious periods are disease-specific, whereas the contact period is behavior-specific and can vary between different provinces, states, or countries. 
+For the early stages of the outbreak in the United States, in n=50 states, we adopted the disease-specific values from China and found a contact period of 3.38 ± 0.69 days. 
+Our network model predicts that—without the massive political mitigation strategies that are in place today—the United States would have faced a basic reproduction number of 5.30 ± 0.95 and a nationwide peak of the outbreak on May 10, 2020 with 3 million infections. 
+Our results demonstrate how mathematical modeling can help estimate outbreak dynamics and provide decision guidelines for successful outbreak control. 
+We anticipate that our model will become a valuable tool to estimate the potential of vaccination and quantify the effect of relaxing political measures including total lockdown, shelter in place, and travel restrictions for low-risk subgroups of the population or for the population as a whole.
 

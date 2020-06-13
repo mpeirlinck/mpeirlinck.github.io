@@ -5,6 +5,7 @@ permalink: /publication/2018-09-paper-kinBCcard
 date: 2018-09-06
 venue: 'International Journal for Numerical Methods in Biomedical Engineering'
 paperurl: 'https://doi.org/10.1002/cnm.3151'
+excerpt: ' '
 ---
 
 [Download paper here](https://doi.org/10.1002/cnm.3151)
