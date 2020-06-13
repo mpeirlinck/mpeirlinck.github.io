@@ -5,7 +5,8 @@ permalink: /publication/2018-05-paper-inverseelast
 date: 2018-05-28
 venue: 'Journal of the Mechanical Behavior of Biomedical Materials'
 paperurl: 'https://doi.org/10.1016/j.jmbbm.2018.05.032'
-excerpt: 'We developed a novel, modular inverse elastostatics approach and implemented this methodology in a commercial FEA solver with minor user subroutine interventions. The accuracy of this methodology was demonstrated in an arterial tube and porcine biventricular myocardium model and subsequently applied to patient-specific aorta and heart models. '
+excerpt: 'We developed a novel, modular inverse elastostatics approach and implemented this methodology in a commercial FEA solver with minor user subroutine interventions.
+The accuracy of this methodology was demonstrated in an arterial tube and porcine biventricular myocardium model and subsequently applied to patient-specific aorta and heart models.'
 ---
 
 [Download paper here](https://doi.org/10.1016/j.jmbbm.2018.05.032)
