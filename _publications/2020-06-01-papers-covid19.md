@@ -7,6 +7,19 @@ venue: 'medRxiv, Biomechanics and Modeling in Mechanobiology, Computer Methods i
 excerpt: 'On March 11, 2020, the World Health Organization declared the coronavirus disease 2019, COVID-19, a global pandemic. In an unprecedented collective effort, massive amounts of data are now being collected worldwide to estimate the immediate and long-term impact of this pandemic on the health system and the global economy. '
 ---
 
+## The reproduction number of COVID-19 and its correlation with public health interventions
+Throughout the past four months, no number has dominated the public media more persistently than the reproduction number of COVID-19. 
+This powerful but simple concept is widely used by the public media, scientists, and political decision makers to explain and justify political strategies to control the COVID-19 pandemic. 
+Here we explore the effectiveness of political interventions using the reproduction number of COVID-19 across Europe. 
+We propose a dynamic SEIR epidemiology model with a time-varying reproduction number, which we identify using machine learning and uncertainty quantification. 
+During the early outbreak, the reproduction number was 4.5 +- 21.4, with maximum values of 6.5 and 5.9 in Spain and France. 
+As of today, it has dropped to 0.7 +- 20.2, with minimum values of 0.4 and 0.3 in Austria and France. 
+We found a strong correlation between passenger air travel and the reproduction number with a time delay of 12.6 +- 22.7 days. 
+Our new dynamic SEIR model provides the flexibility to simulate various outbreak control and exit strategies to inform political decision making and identify safe solutions in the benefit of global health.
+
+[Download preprint here](https://doi.org/10.1101/2020.05.01.20088047)
+
+
 ## Outbreak dynamics of COVID-19 in Europe and the effect of travel restrictions
 For the first time in history, on March 17, 2020, the European Union closed all its external borders in an attempt to contain the spreading of the coronavirus 2019, COVID-19. 
 Throughout two past months, governments around the world have implemented massive travel restrictions and border control to mitigate the outbreak of this global pandemic. 
