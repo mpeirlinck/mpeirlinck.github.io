@@ -7,3 +7,4 @@ venue: Stanford Bio-X Symposium"
 date: 2020-02-26
 location: "Stanford, CA, USA"
 ---
+[Download poster here](http://academicpages.github.io/files/2020-02-talk-BIOX-poster.pdf)
