@@ -4,14 +4,10 @@ collection: publications
 permalink: /publication/2020-06-01-papers-covid19
 date: 2020-06-01
 venue: 'medRxiv, Biomechanics and Modeling in Mechanobiology, Computer Methods in Biomechanics and Biomedical Engineering'
-paperurl: 'https://link.springer.com/article/10.1007/s10237-019-01190-w'
 excerpt: 'On March 11, 2020, the World Health Organization declared the coronavirus disease 2019, COVID-19, a global pandemic. In an unprecedented collective effort, massive amounts of data are now being collected worldwide to estimate the immediate and long-term impact of this pandemic on the health system and the global economy. '
 ---
 
 ## Outbreak dynamics of COVID-19 in Europe and the effect of travel restrictions
-
-[Download paper here](https://doi.org/10.1080/10255842.2020.1759560)
-
 For the first time in history, on March 17, 2020, the European Union closed all its external borders in an attempt to contain the spreading of the coronavirus 2019, COVID-19. 
 Throughout two past months, governments around the world have implemented massive travel restrictions and border control to mitigate the outbreak of this global pandemic. 
 However, the precise effects of travel restrictions on the outbreak dynamics of COVID-19 remain unknown. 
@@ -21,12 +17,11 @@ Our simulations show that mobility networks of air travel can predict the emergi
 Our results suggest that an unconstrained mobility would have significantly accelerated the spreading of COVID-19, especially in Central Europe, Spain, and France. 
 Ultimately, our network epidemiology model can inform political decision making and help identify exit strategies from current travel restrictions and total lockdown.
 
+[Download paper here](https://doi.org/10.1080/10255842.2020.1759560)
+
 
 
 ## Outbreak dynamics of COVID-19 in China and the United States
-
-[Download paper here](https://doi.org/10.1007/s10237-020-01332-5)
-
 On March 11, 2020, the World Health Organization declared the coronavirus disease 2019, COVID-19, a global pandemic. 
 In an unprecedented collective effort, massive amounts of data are now being collected worldwide to estimate the immediate and long-term impact of this pandemic on the health system and the global economy. 
 However, the precise timeline of the disease, its transmissibility, and the effect of mitigation strategies remain incompletely understood. 
@@ -38,3 +33,4 @@ Our network model predicts that - without the massive political mitigation strat
 Our results demonstrate how mathematical modeling can help estimate outbreak dynamics and provide decision guidelines for successful outbreak control. 
 We anticipate that our model will become a valuable tool to estimate the potential of vaccination and quantify the effect of relaxing political measures including total lockdown, shelter in place, and travel restrictions for low-risk subgroups of the population or for the population as a whole.
 
+[Download paper here](https://doi.org/10.1007/s10237-020-01332-5)
