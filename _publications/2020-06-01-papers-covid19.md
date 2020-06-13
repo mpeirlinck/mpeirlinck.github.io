@@ -1,7 +1,7 @@
 ---
 title: "Modeling the outbreak dynamics of COVID-19, the effect of travel restrictions and asymptomatic transmission"
 collection: publications
-permalink: /publication/2019-06-01-papers-covid19
+permalink: /publication/2020-06-01-papers-covid19
 date: 2020-06-01
 venue: 'medRxiv, Biomechanics and Modeling in Mechanobiology, Computer Methods'
 paperurl: 'https://link.springer.com/article/10.1007/s10237-019-01190-w'
