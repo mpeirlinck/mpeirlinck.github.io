@@ -15,7 +15,7 @@ On March 11, 2020, the World Health Organization declared the coronavirus diseas
 In an unprecedented collective effort, massive amounts of data are now being collected worldwide to estimate the immediate and long-term impact of this pandemic on the health system and the global economy. 
 However, the precise timeline of the disease, its transmissibility, and the effect of mitigation strategies remain incompletely understood. 
 Here we integrate a global network model with a local epidemic SEIR model to quantify the outbreak dynamics of COVID-19 in China and the United States. 
-For the outbreak in China, in n=30 provinces, we found a latent period of 2.56 ± 0.72 days, a contact period of 1.47 ± 0.32 days, and an infectious period of 17.82 ± 2.95 days. 
+For the outbreak in China, in n=30 provinces, we found a latent period of 2.56 +- 0.72 days, a contact period of 1.47 +- 0.32 days, and an infectious period of 17.82 ± 2.95 days. 
 We postulate that the latent and infectious periods are disease-specific, whereas the contact period is behavior-specific and can vary between different provinces, states, or countries. 
 For the early stages of the outbreak in the United States, in n=50 states, we adopted the disease-specific values from China and found a contact period of 3.38 ± 0.69 days. 
 Our network model predicts that—without the massive political mitigation strategies that are in place today—the United States would have faced a basic reproduction number of 5.30 ± 0.95 and a nationwide peak of the outbreak on May 10, 2020 with 3 million infections. 
