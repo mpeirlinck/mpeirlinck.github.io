@@ -8,4 +8,4 @@ date: 2020-02-26
 location: "Stanford, CA, USA"
 ---
 Stanford Bio-X Symposium 2020
-[Download poster here](http://academicpages.github.io/files/2020-02-talk-BIOX-poster.pdf)
+[Download poster here](http://mpeirlinck.github.io/files/2020-02-talk-BIOX-poster.pdf)
