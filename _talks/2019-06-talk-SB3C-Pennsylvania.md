@@ -6,4 +6,7 @@ permalink: /talks/2019-06-talk-SB3C-Pennsylvania
 venue: "Summer Biomechanics, Bioengineering and Biotransport Conference 2019"
 date: 2019-06-26
 location: "Seven Springs, PA, USA"
+excerpt: " "
 ---
+
+Conference talk, Summer Biomechanics, Bioengineering and Biotransport Conference 2019, Seven Springs, PA, USA

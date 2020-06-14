@@ -6,4 +6,7 @@ permalink: /talks/2018-07-talk-WCB-Dublin2
 venue: "8th World Congress of Biomechanics"
 date: 2018-07-10
 location: "Dublin, Ireland"
+excerpt: " "
 ---
+
+Conference talk, 8th World Congress of Biomechanics, Dublin, Ireland
