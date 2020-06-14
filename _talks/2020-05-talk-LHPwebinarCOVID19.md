@@ -8,11 +8,9 @@ date: 2020-05-13
 excerpt: ' '
 ---
 
-
-## Outbreak dynamics of COVID-19 and exit strategies form lockdown 
-
 Mathias Peirlinck, Kevin Linka, Francisco Sahli Costabal, Ellen Kuhl  
-The Living Heart Project Member Community webinar series: May 2020.
+The Living Heart Project Member Community webinar series: May 2020.  
+[Webinar replay](https://r1132100503382-eu1-3dswym.3dexperience.3ds.com/#community:20/post:dIhIcvinSz2jLG1hZ2jlDw)
 
 For the first time in history, on March 17, 2020, the European Union closed all its external borders in an attempt to contain the spreading of the coronavirus 2019, COVID-19. 
 Throughout two past months, governments around the world have implemented massive travel restrictions and border control to mitigate the outbreak of this global pandemic. 
@@ -24,4 +22,3 @@ Our results suggest that an unconstrained mobility would have significantly acce
 To highlight the potential of our model, we predicted of the outbreak dynamics of COVID-19 for different exit strategies that either maintain the current status quo, gradually return to normal, or rapidly return to the early outbreak exponential growth. 
 We showed that our dynamic epidemiology model provides the flexibility to simulate the effects and timelines of various outbreak control and exit strategies to inform political decision making and identify solutions that minimize the impact of COVID-19 on global health.
 
-[Webinar replay](https://r1132100503382-eu1-3dswym.3dexperience.3ds.com/#community:20/post:dIhIcvinSz2jLG1hZ2jlDw)
