@@ -13,14 +13,14 @@ Recent studies suggest that the population prevalence of SARS-CoV-2 antibodies, 
 Knowing the precise prevalence and contagiousness of asymptomatic transmission is critical to estimate the overall dimension and pandemic potential of COVID-19. 
 However, at this stage, the effect of the asymptomatic population, its size, and its outbreak dynamics remain largely unknown. 
 Here we use reported symptomatic case data in conjunction with antibody seroprevalence studies, a mathematical epidemiology model, and a Bayesian framework to infer the epidemiological characteristics of COVID-19. 
-Our model learns, in real time, the time-varying contact rate of the outbreak, and projects the temporal evolution and credible intervals of the effective reproduction number and the symptomatic, asymptomatic, and recovered populations. 
-Our study reveals that the outbreak dynamics of COVID-19 are sensitive to three parameters: the effective reproduction number, the ratio between the symptomatic and asymptomatic populations, and the infectious periods of both groups. 
-For three distinct locations, Santa Clara County (CA, USA), New York City (NY, USA), and Heinsberg (NRW, Germany), our model estimates the fraction of the population that has been infected and recovered by May 13, 2020 to 6.2% (95% CI: 3.3%-9.0%), 22.7% (95% CI: 15.7%-29.8%), and 20.5% (95% CI: 17.0%-24.3%). 
-Our method traces the initial outbreak date in Santa Clara County back to January 20, 2020 (95% CI: January 16, 2020 - January 24, 2020). Our results could significantly change our understanding and management of the COVID-19 pandemic: 
-A large asymptomatic population will make isolation, containment, and tracing of individual cases challenging. 
-Instead, if needed, managing community transmission through increasing population awareness, promoting physical distancing, and encouraging behavioral changes could become more relevant.
+Our model computes, in real time, the time-varying contact rate of the outbreak, and projects the temporal evolution and credible intervals of the effective reproduction number and the symptomatic, asymptomatic, and recovered populations. 
+Our study quantifies the sensitivity of the outbreak dynamics of COVID-19 to three parameters: the effective reproduction number, the ratio between the symptomatic and asymptomatic populations, and the infectious periods of both groups. 
+For nine distinct locations, our model estimates the fraction of the population that has been infected and recovered by Jun 15, 2020 to 24.15% (95% CI: 20.48%-28.14%) for Heinsberg (NRW, Germany), 2.40% (95% CI: 2.09%-2.76%) for Ada County (ID, USA), 46.19% (95% CI: 45.81%-46.60%) for New York City (NY, USA), 11.26% (95% CI: 7.21%-16.03%) for Santa Clara County (CA, USA), 3.09% (95% CI: 2.27%-4.03%) for Denmark, 12.35% (95% CI: 10.03%-15.18%) for Geneva Canton (Switzerland), 5.24% (95% CI: 4.84%-5.70%) for the Netherlands, 1.53% (95% CI: 0.76%-2.62%) for Rio Grande do Sul (Brazil), and 5.32% (95% CI: 4.77%-5.93%) for Belgium. 
+Our method traces the initial outbreak date in Santa Clara County back to January 20, 2020 (95% CI: December 29, 2019–February 13, 2020). 
+Our results could significantly change our understanding and management of the COVID-19 pandemic: A large asymptomatic population will make isolation, containment, and tracing of individual cases challenging. 
+Instead, managing community transmission through increasing population awareness, promoting physical distancing, and encouraging behavioral changes could become more relevant.
 
-[Download preprint here](https://doi.org/10.1101/2020.05.23.20111419)
+[Download paper here](https://doi.org/10.1016/j.cma.2020.113410)
 
 ## The reproduction number of COVID-19 and its correlation with public health interventions
 Throughout the past four months, no number has dominated the public media more persistently than the reproduction number of COVID-19. 
@@ -32,7 +32,7 @@ As of today, it has dropped to 0.7 +- 20.2, with minimum values of 0.4 and 0.3 i
 We found a strong correlation between passenger air travel and the reproduction number with a time delay of 12.6 +- 22.7 days. 
 Our new dynamic SEIR model provides the flexibility to simulate various outbreak control and exit strategies to inform political decision making and identify safe solutions in the benefit of global health.
 
-[Download preprint here](https://doi.org/10.1101/2020.05.01.20088047)
+[Download paper here](https://doi.org/10.1007/s00466-020-01880-8)
 
 
 ## Outbreak dynamics of COVID-19 in Europe and the effect of travel restrictions
